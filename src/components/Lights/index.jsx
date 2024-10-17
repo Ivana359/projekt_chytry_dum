@@ -3,6 +3,7 @@ import './style.css';
 import { Light } from '../Light';
 
 
+
 export const Lights = ({ lights }) => {
   return (
     <div className="lights">
